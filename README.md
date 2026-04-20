@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kleanthis
 
-<!--
-**KleanthisVasileiadis/KleanthisVasileiadis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student in Computer Science with a strong interest in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+My main focus lies in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Deep Learning
+* Natural Language Processing(NLP)
+* Knowledge Graphs & Retrieval-Augmented Generation(RAG)
+
+I like working on AI-related projects and experimenting with different approaches.
+
+Currently, I am working on projects related to:
+
+* Retrieval-Augmented Generation(RAG) with LLMs
+
+Skills:
+
+**Programming:**
+- Python, C, C++
+
+**ML / AI:**
+- PyTorch
+
+**Data:**
+- Pandas, NumPy
+
+**Tools:**
+- Git & GitHub
+
+Ηow to reach me:
+
+* Email: VasileiadisK00@gmail.com
+
+---
