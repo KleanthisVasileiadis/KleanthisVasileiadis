@@ -14,12 +14,16 @@ Currently, I am working on projects related to:
 * Retrieval-Augmented Generation(RAG) with LLMs
 
 Skills:
+
 **Programming:**
 - Python, C, C++
+
 **ML / AI:**
 - PyTorch
+ 
 **Data:**
 - Pandas, NumPy
+
 **Tools:**
 - Git & GitHub
 
