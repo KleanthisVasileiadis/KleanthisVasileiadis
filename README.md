@@ -15,16 +15,9 @@ Currently, I am working on projects related to:
 
 Skills:
 
-**Programming:**
 - Python, C, C++
-
-**ML / AI:**
 - PyTorch
- 
-**Data:**
 - Pandas, NumPy
-
-**Tools:**
 - Git & GitHub
 
 Ηow to reach me:
